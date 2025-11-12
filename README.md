@@ -91,8 +91,3 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 ```
 
 ```
-
-If you want, I can also make it **even cleaner with tables for dependencies and a nicer layout** that looks professional on GitHub.  
-
-Do you want me to do that version too?
-```
